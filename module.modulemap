@@ -1,0 +1,5 @@
+module CCommonHMAC [system] {
+    header "/usr/include/CommonCrypto/CommonHMAC.h"
+    link "CommonHMAC"
+    export *
+}
